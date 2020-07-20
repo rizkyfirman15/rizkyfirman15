@@ -1,7 +1,5 @@
 ### Hai 👋, Saya Riki !
 
-![Profile views](https://www.instagram.com/rizkyfirman_15/)
-
 <a href="#">
   <img align="left" alt="Rizky's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
