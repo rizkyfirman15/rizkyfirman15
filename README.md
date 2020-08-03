@@ -29,7 +29,7 @@ Halo, saya ** Riki Firmansyah **, seorang Web Developer ** dan seorang Mahasiswa
 
 - 🌱 Saat ini saya sedang menjalani peoses perkuliahan,
      di salah satu perguruan tinggi yang ada di Serang, Banten;
-- Background saya otomotif, saya lulusan SMK dengan jurusan
+- 🌱 Background saya otomotif, saya lulusan SMK dengan jurusan
      Teknik Kendaraan Ringan;
 - 💼 Saya sedang mengejar gelar Sarjana dibidang Teknik Informatika;
 - 💬 Tanyakan kepada saya tentang apa saja, saya senang membantu;
