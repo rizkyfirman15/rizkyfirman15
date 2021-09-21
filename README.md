@@ -23,7 +23,7 @@
 <br />
 <br />
 
-Halo, saya Riki Firmansyah, seorang Web Developer dan seorang mahasiswa Manajemen Informatika 🚀 Politeknik Piksi Input Serang, Indonesia.
+Hello, I'm Riki Firmansyah, a Web Developer and a student of Information Management 🚀 Politeknik Piksi Input Serang, Indonesia.
 
 ** Berbicara tentang Pribadi Saya: **
 
