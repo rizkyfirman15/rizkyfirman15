@@ -1,4 +1,4 @@
-### Hai 👋, Saya Riki !
+### Hai 👋, I'm Rizky !
 
 <a href="#">
   <img align="left" alt="Rizky's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -25,15 +25,13 @@
 
 Hello, I'm Riki Firmansyah, a Web Developer and a student of Information Management 🚀 Politeknik Piksi Input Serang, Indonesia.
 
-** Berbicara tentang Pribadi Saya: **
+** Talking about My Personal: **
 
-- 🌱 Saat ini saya sedang menjalani peoses perkuliahan,
-     di salah satu perguruan tinggi yang ada di Serang, Banten;
-- 🌱 Background saya otomotif, saya lulusan SMK dengan jurusan
-     Teknik Kendaraan Ringan;
-- 💼 Saya sedang mengejar gelar Sarjana dibidang Teknik Informatika;
-- 💬 Tanyakan kepada saya tentang apa saja, saya senang membantu;
-- 📫 Silakan email melalui rizkyfirmansyah3344@gmail.com untuk menghubungi saya.
+- 🌱 I am currently undergoing a lecture process at one of the universities in Serang, Banten;
+- 🌱 My background is automotive, I graduated from SMK majoring in Light Vehicle Engineering;
+- 💼 I am currently pursuing a Bachelor's degree in Informatics Engineering;
+- 💬 Ask me anything, I'm happy to help;
+- 📫 Please email via rizkyfirmansyah3344@gmail.com to contact me.
 
 
 
